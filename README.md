@@ -1,4 +1,7 @@
-### Olá eu sou o Jair Andrade ✌️
+### Hi there, I'm Jair.  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
+
+
+ but my friends call me JJ 👨‍💻
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jair-andrade/)
 
